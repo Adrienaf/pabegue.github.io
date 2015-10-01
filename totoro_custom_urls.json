@@ -1,0 +1,42 @@
+{
+	"dallasBaseUrl" : [
+		"https://dallas.airfrance.fr",
+		"https://dallasnpe.airfrance.fr",
+		"https://dallasrc2rct.airfrance.fr",
+		"https://dallasrc3rct.airfrance.fr",
+		"https://dallasrct.airfrance.fr",
+		"https://dallasrc4rct.airfrance.fr",
+		"http://dallasintra-rct4-rct.airfrance.fr",
+		"https://dallasintra-rct4-rct.airfrance.fr",
+		"http://dallasintrarc2rct.airfrance.fr",
+		"https://dallasintrarc2rct.airfrance.fr",
+		"http://dallasintra-rct5-rct.airfrance.fr",
+		"https://dallasintra-rct5-rct.airfrance.fr"
+	],
+	"mobileSiteBaseUrl" : [
+		"https://mobile.airfrance.com",
+		"https://bmw-1evol0-rct.airfrance.fr",
+		"https://bmw-1evol1-rct.airfrance.fr",
+		"https://bmw-1evol2-rct.airfrance.fr",
+		"https://bmw-1evol3-rct.airfrance.fr",
+		"https://bmw-2evol1-rct.airfrance.fr",
+		"https://bmw-1evol4-rct.airfrance.fr",
+		"https://bmw-1-npe.airfrance.fr",
+		"https://bmw-2-npe.airfrance.fr"
+	],
+	"iciBaseUrl" : [
+		"https://mobile.airfrance.com",
+		"http://10.78.80.80:9080",
+		"https://www.klm.com",
+		"https://www.ute1.klm.com",
+		"https://www.ute2.klm.com",
+		"https://www.ute3.klm.com"
+	],
+	"havBaseUrl" : [
+		"https://mobile.airfrance.com",
+		"https://bmw-1evol1-rct.airfrance.fr",
+		"https://bmw-1evol3-rct.airfrance.fr",
+		"https://bmw-2evol3-rct.airfrance.fr",
+		"https://bmw-1evol2-rct.airfrance.fr"
+	]
+}
